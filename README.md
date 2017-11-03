@@ -1,7 +1,7 @@
 Context Free Grammar Operations Implementation
 ============
 
-This was a project for the Theory of Computation course in my junior year of my undergrad in computer science at UDC (Spain). This is a collection of algorithms that, given a context free grammar (CFG), it produces a second grammar equivalent to the first one that meet one of the following requirements:
+This was a project for the Theory of Computation course in my junior year of my undergrad in computer science at UDC (Spain). This is a collection of algorithms that, given a context free grammar (CFG), it produces a second grammar equivalent to the first one that meets one of the following requirements:
 
 - Transform to Chomsky Normal Form (CNF)
 - every symbol is reachable
