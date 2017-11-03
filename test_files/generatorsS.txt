@@ -1,0 +1,8 @@
+NoTerminales : S A C D
+Terminales : a b c
+S ->  A C 
+S -> b A
+A ->  a
+C -> Epsilon
+D ->  C
+C -> D

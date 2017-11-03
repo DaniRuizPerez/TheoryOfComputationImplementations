@@ -1,0 +1,17 @@
+NoTerminales : E T F I
+Terminales : a b 1 0 + * ( ) c
+E -> E + T
+E -> T * F
+E -> ( E )
+E -> a b 1 0 E
+E -> b
+E -> #
+T -> T * F
+T -> ( E )
+T -> a
+F -> ( E )
+F -> T
+F -> b
+F -> I a
+F -> c
+I -> #

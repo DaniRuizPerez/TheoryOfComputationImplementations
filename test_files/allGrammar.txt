@@ -1,0 +1,18 @@
+NoTerminales : SN Det Name Adj Fail1 Fail2 Fail3 Aes WASD
+Terminales : la gramatica republica independiente fail aaaa aa eas
+SN -> Det Name Adj Fail1 Fail1 Fail3 aa
+Det -> la WASD
+Det -> Aes
+Det -> aaaa
+Aes -> aaaa
+Name -> Aes
+Aes -> Name
+Name -> gramatica
+Name -> republica
+Adj -> independiente
+Fail1 -> #
+Fail2 -> fail
+Adj -> #
+Fail3 -> Adj
+Fail3 -> Fail2
+Fail2 -> Fail3

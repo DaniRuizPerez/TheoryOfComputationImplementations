@@ -1,0 +1,14 @@
+NoTerminales : S A B C X D 5 G
+Terminales : a b 1 u
+S -> A B 1 
+S -> A C 
+S -> b A
+A -> a
+G -> u
+C -> D
+D -> C
+B -> b
+A -> #
+G -> u X a
+5 -> a a b 1
+C -> #

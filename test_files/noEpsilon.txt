@@ -1,0 +1,12 @@
+NoTerminales : S A B C D E
+Terminales : a c
+S ->  B C a D E
+S -> S D E
+A ->  A A A A a
+A -> #
+A -> a E
+B -> C
+C -> B
+C -> #
+D -> c a c a
+E -> #

@@ -1,0 +1,23 @@
+NoTerminales : SN Det Name Adj Fail3 A0 C1 C2 C3 C4 C5 C6 C7 C8
+Terminales : gramatica republica independiente fail aaaa aa
+SN -> Det C2 
+SN -> Det C4
+SN -> Det C7 
+SN -> Det C8
+Det -> aaaa | 
+Det -> gramatica
+Det -> republica
+Name -> gramatica 
+Name -> republica 
+Name -> aaaa
+Fail3 -> independiente 
+Fail3 -> fail
+Adj -> independiente
+A0 -> aa
+C1 -> Fail3 A0
+C2 -> Name C1
+C3 -> Adj A0
+C4 -> Name C3
+C6 -> Adj C1
+C7 -> Name C6
+C8 -> Name A0
