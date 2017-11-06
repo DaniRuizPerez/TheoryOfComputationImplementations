@@ -1,0 +1,14 @@
+NoTerminales:S-NP-V-VP-PP-Det-N-P-
+Terminales:she-eats-a-fish-with-a-fork-
+S ->NP-VP
+VP ->VP-PP
+VP ->V-NP
+VP ->eats
+PP ->P-NP
+NP ->Det-N
+NP ->she
+V ->eats
+P ->with
+N ->fish
+N ->fork
+Det ->a

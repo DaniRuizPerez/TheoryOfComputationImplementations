@@ -1,0 +1,17 @@
+NoTerminales:S-SN-SV-SP-Det-Name-Verb-Prep-
+Terminales:el-la-las-conejo-cinco-mañana-se levantó-a-de-
+S ->SN-SV
+SN ->Det-Name
+SN ->SN-SP
+SV ->Verb-SN
+SV ->Verb-SP
+SP ->Prep-SN
+Det ->el
+Det ->la
+Det ->las
+Name ->conejo
+Name ->cinco
+Name ->mañana
+Verb ->se levantó
+Prep ->a
+Prep ->de

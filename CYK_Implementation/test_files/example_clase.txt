@@ -1,0 +1,10 @@
+NoTerminales:S-A-B-C-D-
+Terminales:a-b-
+S ->A-B
+A ->C-D
+C ->a
+D ->C-D
+D ->b
+B ->D-C
+B ->a
+D ->a
