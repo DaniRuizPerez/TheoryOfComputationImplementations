@@ -1,7 +1,7 @@
 Theory Of Computation Algorithms implementation
 ============
 
-This is a set of projects that I developed for the Theory of Computation course in the junior year of my undergrad in computer science at UDC (Spain). 
+This is a set of projects that I developed for the Theory of Computation course in the junior year of my undergrad in computer science at UDC (Spain).
 
 
 ## Projects:
